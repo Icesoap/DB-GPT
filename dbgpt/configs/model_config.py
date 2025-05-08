@@ -158,7 +158,8 @@ EMBEDDING_MODEL_CONFIG = {
     "text2vec": os.path.join(MODEL_PATH, "text2vec-large-chinese"),
     "text2vec-base": os.path.join(MODEL_PATH, "text2vec-base-chinese"),
     # https://huggingface.co/moka-ai/m3e-large
-    "m3e-base": os.path.join(MODEL_PATH, "m3e-base"),
+    "m3e-base": os.path.join(MODEL_PATH, "E:\\Development\\ChatGLM\\langchain-chatglm2-custom-lib\\m3e-base"),
+    # "m3e-base": os.path.join(MODEL_PATH, "m3e-base"),
     # https://huggingface.co/moka-ai/m3e-base
     "m3e-large": os.path.join(MODEL_PATH, "m3e-large"),
     # https://huggingface.co/BAAI/bge-large-en
